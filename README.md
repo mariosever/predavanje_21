@@ -1,2 +1,2 @@
-# predavanje_20
-Predavanje 20 flask aplikacija
+# predavanje_21
+Predavanje 21 flask aplikacija
